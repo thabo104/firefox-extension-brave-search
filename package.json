@@ -13,7 +13,7 @@
   "author": "uvera",
   "license": "MIT",
   "devDependencies": {
-    "web-ext": "^7.5.0"
+    "web-ext": "^10.6.0"
   },
   "engines": {
     "node": ">=12"
